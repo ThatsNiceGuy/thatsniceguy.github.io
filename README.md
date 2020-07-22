@@ -13,4 +13,5 @@ Much more to come in the future
 
 ### Contents of website
 - Basic online presence
+- My iOS shortcuts
 - Link to main website
