@@ -5,6 +5,7 @@ Since I'm a beginner at HTML, CSS and just web design in general, some of the so
 
 ### Completion
 - [x] Basic page style
+- [ ] Move to using CSS files instead of inline CSS
 - [ ] Add more social links
 - [ ] Custom fonts instead of the plain text
 - [ ] Mobile formatting
