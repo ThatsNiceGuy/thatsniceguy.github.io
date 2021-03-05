@@ -1,19 +1,12 @@
 # ThatsNiceGuy's Website
 A website made by me about myself. Will replace my main website at some point in time.
 
-Since I'm a beginner at HTML, CSS and just web design in general, some of the source is garbage and I hope to improve it while learning.
+Going to be remade with Jekyll soon!
 
 ### Completion
-- [x] Basic page style
-- [ ] Move to using CSS files instead of inline CSS
-  - really important
-- [ ] Add more social links
-- [ ] Custom fonts instead of the plain text
-- [ ] Mobile formatting
+- [ ] Move to Jekyll
 
 Much more to come in the future
 
 ### Contents of website
-- Basic online presence
-- My iOS shortcuts
-- Link to main website
+*On hold*
